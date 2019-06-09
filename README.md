@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Keep Moving
+  Follow ur heart
 
 You can use the [editor on GitHub](https://github.com/MiniDream123/MiniDream123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 我的主页
+## 我的作品
+### 关于我
 
 - Bulleted
 - List
